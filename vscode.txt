@@ -149,7 +149,7 @@ Multi-cursor e seleção
 
     Ctrl + Shift + Espaço Dicas do parâmetro do acionador 
 
-    Shift + Alt + F Formatar documento 
+    Shift + Alt + F Formatar documento  / Identar
 
     Ctrl + K Ctrl + F Seleção de formato 
 
